@@ -1,1 +1,3 @@
 language: php
+before_install:
+   - composer install 
