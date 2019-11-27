@@ -1,3 +1,4 @@
 language: php
 before_install:
    - composer install 
+script: phpunit
